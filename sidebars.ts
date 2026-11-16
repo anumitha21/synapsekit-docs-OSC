@@ -212,6 +212,7 @@ const sidebars: SidebarsConfig = {
         'agents/cookbook',
         'agents/tool-authoring',
         'agents/streaming-steps',
+        'agents/serve',
         'agents/reasoning-agent',
         'agents/federation',
         'agents/swarm',
